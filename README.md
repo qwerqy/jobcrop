@@ -1,26 +1,15 @@
-# README
+# JobCrop
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tech Stack
+Front End
+- HTML CSS
+- Javascript
+- ReactJS
 
-Things you may want to cover:
+Back End
+- Ruby on Rails
 
-* Ruby version
+This was a group project tasked by my bootcamp based on a theme **'City Hacking'. 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-Hello
+It is a Jobhunting website like any other, but the main feature is the **Hunt Engine**, which was made 100% ReactJS.
+**Hunt Engine** ables to scrap other job websites and return the results back. With different filters it's easy to browse around.
